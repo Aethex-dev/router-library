@@ -1,6 +1,6 @@
 {
     "name": "xenframe/router-library",
-    "description": "My first packagist package",
+    "description": "PHP Routing Library",
     "type": "package",
     "license": "MIT",
     "authors": [
