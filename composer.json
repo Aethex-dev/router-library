@@ -1,0 +1,21 @@
+{
+    "name": "xenframe/router-library",
+    "description": "My first packagist package",
+    "type": "package",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "XENONMC DEV",
+            "email": "support@xenonmc.xyz"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=7.2.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "xenframe\\RouterLibrary\\": "src/"
+        }
+    }
+}
